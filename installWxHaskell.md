@@ -1,0 +1,1 @@
+怎样安装wxHaskell
