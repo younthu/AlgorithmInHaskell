@@ -1,0 +1,2 @@
+# AlgorithmInHaskell
+一些简单的算法用haskell语言实现
